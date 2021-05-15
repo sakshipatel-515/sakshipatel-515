@@ -1,16 +1,15 @@
-### Hi there 👋
+# Hey👋, I'm Sakshi  <br />
+### **Passionately curious!**:sparkles: <br /> <br />
+Hi, I am Sakshi Patel:woman_student:, currently pursuing Bachelor of Technology:mortar_board: from Indira Gandhi Delhi Technical University for Women (IGDTUW), New Delhi, India. I am a Full Stack Web Developer:rocket: & passionate to develop cutting edge technology solutions:computer:. I like exploring the unexplored, always eager to learn, explore & work accross technologies and domains and I'm seeking challenging opportunities that allow me to use my skills, passion and potential to the maximum. <br /> <br />
 
-<!--
-**sakshipatel-515/sakshipatel-515** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# **Experience:** :chart_with_upwards_trend: <br />
+- :woman_technologist: WIE Vice-Chairperson at IEEE IGDTUW & Head of the Web Development Team<br />
+- 🔭 Have played around with: C++, C#, HTML, CSS, Javascript, Node.js, Mongodb, Python, NLP <br />
+- 🌱 Currently Learning: ASP.NET, React <br />
+- :wrench: Using the following tools: Git, Github, Visual Studio Code, Visual Studio <br />
+- :raised_hands: Communities active with: **IEEE IGDTUW** & **Microsoft Learn Student Ambassador** <br />
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+
+
